@@ -532,6 +532,19 @@ input, textarea, select {
 }
 
 /* ========================================
+   Mobile Styles
+   ======================================== */
+
+@media (max-width: 768px) {
+  .nav-desktop {
+    display: none !important;
+  }
+  .mobile-menu-btn {
+    display: flex !important;
+  }
+}
+
+/* ========================================
    Print Styles
    ======================================== */
 

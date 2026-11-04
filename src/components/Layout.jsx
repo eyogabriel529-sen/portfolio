@@ -334,17 +334,6 @@ export default function Layout() {
         </div>
       </footer>
 
-      {/* Mobile Styles */}
-      <style jsx>{`
-        @media (max-width: 768px) {
-          .nav-desktop {
-            display: none !important;
-          }
-          .mobile-menu-btn {
-            display: flex !important;
-          }
-        }
-      `}</style>
-    </>
+      </>
   )
 }

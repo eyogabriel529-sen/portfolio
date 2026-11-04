@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { ArrowRight, Github, ExternalLink, Code, Palette, Zap, Brain, Film, Image, Layout } from 'lucide-react'
+import { ArrowRight, Github, ExternalLink, Code, Palette, Zap, Brain, Film, Image, Layout, Linkedin, Twitter } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { personalInfo } from '../data/personalInfo'
 import { socialLinks } from '../data/socialLinks'
