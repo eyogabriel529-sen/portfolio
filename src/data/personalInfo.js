@@ -19,7 +19,17 @@ export const personalInfo = {
 
   // About page
   about: {
-    background: "I'm a Software Engineering student at the Federal University of Technology, Ikot Abasi (FUTIA), currently in my 200 level. My journey into software development began with curiosity about how things work behind the screen, and it has evolved into a passion for creating meaningful digital experiences.",
+    background: `Hey, I'm Gabe — a Software Engineering student and aspiring software developer passionate about technology, creativity, and building solutions that make a difference.
+
+I enjoy turning ideas into functional, user-friendly digital experiences. My interests span frontend development, Python programming, and exploring emerging technologies, particularly Artificial Intelligence.
+
+I'm constantly learning, experimenting with new tools, and challenging myself through personal projects. From developing interactive web applications to exploring new technologies, I believe every project is an opportunity to improve my skills and solve problems in a better way.
+
+Beyond coding, I have an interest in creative design and digital media, which influences how I approach building visually appealing and intuitive experiences.
+
+I'm always open to collaboration, new challenges, and opportunities to learn from other developers. My goal is to grow into a well-rounded software engineer, contribute to meaningful projects, and build technology that creates real value.
+
+**I'm not just learning to code; I'm learning to build.**`,
 
     education: {
       degree: "Bachelor of Software Engineering",
