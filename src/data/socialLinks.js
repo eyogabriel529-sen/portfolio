@@ -5,9 +5,8 @@
  */
 
 export const socialLinks = {
-  github: "https://github.com/GabeEyo",
-  linkedin: "https://linkedin.com/in/gabriel-eyo",
-  twitter: "https://twitter.com/gabe_eyo",
+  github: "https://github.com/eyogabriel529-sen",
+  linkedin: "https://www.linkedin.com/in/gabriel-eyo-1b3347342",
   email: "mailto:eyogabriel529@gmail.com",
   // Add more platforms as needed
   // dribbble: "",
@@ -20,7 +19,6 @@ export const socialLinks = {
 export const socialLinkLabels = {
   github: "GitHub",
   linkedin: "LinkedIn",
-  twitter: "Twitter",
   email: "Email",
 };
 
